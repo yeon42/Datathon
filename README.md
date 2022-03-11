@@ -8,3 +8,4 @@
 https://dacon.io/competitions/official/235736/overview/description
 
 - 📝 요일, 시간별 전력 사용량에 따른 건물 군집화 및 다양한 시각화
+- 📝 추가로 통계청(한국전력공사)에서 제공하는 [산업별(표준산업코드 중분류) 월별 1~24시 전력소비계수](https://kosis.kr/statHtml/statHtml.do?orgId=115&tblId=DT_11507N_095&vw_cd=MT_ZTITLE&list_id=115_11507_K1&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE) 데이터를 통해 건물의 종류를 예측하였습니다.
